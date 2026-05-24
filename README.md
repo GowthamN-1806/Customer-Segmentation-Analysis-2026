@@ -34,11 +34,8 @@ This project focuses on customer segmentation analysis using the Superstore data
 
 ## 📊 Dashboard Preview
 
-Add your dashboard screenshot here.
 
-Example:
-
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](screenshots/Screenshot 2026-05-25 005519.png)
 
 ---
 
