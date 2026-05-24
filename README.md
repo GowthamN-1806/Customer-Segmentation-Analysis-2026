@@ -35,7 +35,7 @@ This project focuses on customer segmentation analysis using the Superstore data
 ## 📊 Dashboard Preview
 
 
-![Dashboard Preview](screenshots/Screenshot 2026-05-25 005519.png)
+![Dashboard Preview](screenshots/dashboard-preview.png)
 
 ---
 
