@@ -1,2 +1,59 @@
-# Customer-Segmentation-Analysis-2026
-Developed a Customer Segmentation Dashboard using Power BI to analyze customer behavior, sales contribution, regional distribution, and purchasing trends. Interactive visualizations and filters were used to gain business insights and identify valuable customer segments.
+
+# Customer Segmentation Analysis Dashboard
+
+A modern Power BI dashboard project developed for analyzing customer behavior, segmentation patterns, sales contribution, and category-wise performance using interactive data visualizations.
+
+---
+
+## 📌 Project Overview
+
+This project focuses on customer segmentation analysis using the Superstore dataset. The dashboard provides meaningful business insights through KPI cards, charts, slicers, and interactive visuals.
+
+---
+
+## 🚀 Features
+
+- Customer Segmentation Analysis
+- Sales & Profit KPIs
+- Region-wise Customer Distribution
+- Top Customers Analysis
+- Category-wise Sales Visualization
+- Interactive Filters & Slicers
+- Modern Cyberpunk/Violet Dashboard Theme
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+- Power BI Desktop
+- Data Visualization
+- Business Intelligence
+- Data Analytics
+
+---
+
+## 📊 Dashboard Preview
+
+Add your dashboard screenshot here.
+
+Example:
+
+![Dashboard Preview](dashboard-preview.png)
+
+---
+
+## 📁 Dataset Used
+
+- Sample Superstore Dataset
+
+---
+
+## 📂 Project Structure
+
+```bash
+Customer-Segmentation-Dashboard/
+│
+├── Customer_Segmentation_Dashboard.pbix
+├── dashboard-preview.png
+├── README.md
+└── dataset.csv
